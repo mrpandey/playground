@@ -1,0 +1,13 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.1",
+  "description": "I am learning npm",
+  "main": "index.js",
+  "repository": "https://github.com/mrpandey/playground",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "mrpandey",
+  "license": "ISC",
+  "dependencies": {}
+}
